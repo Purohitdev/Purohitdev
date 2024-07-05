@@ -1,3 +1,5 @@
+Here's a more detailed README for Purohitdev's GitHub profile:
+
 ---
 
 ![Header](https://user-images.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-HEADER-IMAGE.jpg)
@@ -40,8 +42,12 @@ I'm a passionate **17-year-old frontend developer** focused on creating visually
 - [LinkedIn](https://www.linkedin.com/in/devansh-rajpurohit)
 - [Twitter](https://twitter.com/YOUR-TWITTER-HANDLE)
 
+### 📚 Latest Blog Posts
+
+- [How to Build a Responsive React App](https://yourblog.com/react-responsive-app)
+- [Top 10 JavaScript Tips and Tricks](https://yourblog.com/js-tips-tricks)
+- [Understanding CSS Flexbox](https://yourblog.com/css-flexbox)
+
 ---
-<!---
-Purohitdev/Purohitdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Feel free to modify the links, stats, and details as per your preference!
