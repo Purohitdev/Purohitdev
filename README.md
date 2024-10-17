@@ -35,8 +35,8 @@ I'm a 17-year-old **frontend developer** from India 🇮🇳 with a passion for 
 ### 🌐 Let's Connect:
 - Portfolio: [dev.impic.tech](dev.impic.tech)
 - GitHub: [github.com/Purohitdev](https://github.com/Purohitdev)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/devansh-rajpurohit/)
-- Discord: **PurohitDev#1234**
+- LinkedIn: [my LinkedIn](https://www.linkedin.com/in/devansh-rajpurohit/)
+- Discord: **purohit.devu**
 
 ---
 
