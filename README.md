@@ -13,7 +13,7 @@ I'm a 17-year-old **frontend developer** from India 🇮🇳 with a passion for 
 ### 🚀 Projects:
 - [**Zoneis**](https://zoneis.vercel.app/): A gym-related project providing users with an intuitive interface for managing workout routines.
 - [**Gumshoe**](#): A tool for tracking and managing tasks with a sleek UI (coming soon).
-- [**Evie Portfolio**](viee.vercel.app): A personal portfolio template designed for showcasing projects in a minimalist, elegant style.
+- [**Evie Portfolio**](https://eviee.vercel.app/): A personal portfolio template designed for showcasing projects in a minimalist, elegant style.
 
 ---
 
