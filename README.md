@@ -26,17 +26,17 @@ An experimental project focusing on **UI/UX innovations** and **frontend excelle
 - Built using **React, Tailwind CSS, GSAP**
 - Exploring **new interaction patterns and animations**
 
-#### [Portfolio](#) - **My Personal Portfolio**
+#### [Portfolio](https://shilwant-port.vercel.app/) - **My Personal Portfolio**
 A showcase of my skills, projects, and achievements in web development.
-- Built with **Next.js, Tailwind CSS, GSAP**
+- Built with **React, Tailwind CSS, GSAP**
 - Features **smooth animations and interactive elements**
 
-#### [Kisan Mel](#) - **Agriculture Marketplace**
+#### [Kisan Mel](https://kisan-mell.vercel.app/) - **Agriculture Marketplace**
 A platform to **connect farmers and buyers** for better market accessibility.
 - Developed with **React, Tailwind CSS**
 - Aiming to **enhance the agricultural supply chain**
 
-#### [Gumshoe](#) - **Task Management Tool**
+#### [Gumshoe](https://gumshoe-zeta.vercel.app/) - **Task Management Tool**
 A sleek **task-tracking application** designed for productivity.
 - Built using **React, Tailwind CSS, GSAP**
 - Focuses on **intuitive task organization and management**
