@@ -1,6 +1,6 @@
 # Hi there, I'm Dev! 👋
 
-I'm a 17-year-old **frontend developer** from India 🇮🇳, passionate about crafting stunning and user-friendly web experiences. With a strong focus on UI/UX, I love designing smooth, interactive interfaces that elevate user engagement. Currently, I'm also diving into backend development to expand my full-stack capabilities.
+I'm a 18-year-old **frontend developer** from India 🇮🇳, passionate about crafting stunning and user-friendly web experiences. With a strong focus on UI/UX, I love designing smooth, interactive interfaces that elevate user engagement. Currently, I'm also diving into backend development to expand my full-stack capabilities.
 
 ---
 
